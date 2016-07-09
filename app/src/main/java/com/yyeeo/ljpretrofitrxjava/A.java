@@ -7,4 +7,5 @@ package com.yyeeo.ljpretrofitrxjava;
 public class A {
 
     public static final String a="nice";
+    public static final String b="nice";
 }

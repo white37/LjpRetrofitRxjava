@@ -5,4 +5,6 @@ package com.yyeeo.ljpretrofitrxjava;
  */
 
 public class A {
+
+    public static final String a="nice";
 }
